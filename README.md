@@ -2,7 +2,7 @@
 - 👀 My Name is Neha Azam
 - 🌱 I’m Student
 - 💞️ I’m Currently learning in Techno India University in Salt Lake Kolkata
-- 📫 This is Myt Official Github Account.
+- 📫 This is My Official Github Account.
 
 <!---
 Nehatechnoindia/Nehatechnoindia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
